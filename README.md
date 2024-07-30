@@ -1,3 +1,47 @@
+# amazon-transcribe-websocket-static
+
+A static site demonstrating real-time audio transcription via Amazon Transcribe over a WebSocket.
+
+## Project Overview
+
+This project appears to be a **JavaScript Application**. It is primarily written in None and was last updated on 2020-09-30 20:22:25+00:00.
+
+## Repository Statistics
+- Stars: 0
+- Forks: 0
+
+## Key Features
+- No automated tests detected
+- No CI/CD configuration detected
+- No Dockerfile detected
+- Includes a license
+
+## File Structure
+```
+.gitignore
+AWS_logo_RGB.png
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+NOTICE
+README.md
+index.html
+package-lock.json
+package.json...
+```
+
+## Main Technologies
+- .md: 4 file(s)
+- : 3 file(s)
+- .json: 3 file(s)
+- .js: 3 file(s)
+- .png: 1 file(s)
+
+## Dependencies
+
+
+## Existing README Content
+
 ## Amazon Transcribe Websocket Static
 
 [Try it out](https://transcribe-websockets.go-aws.com/)
@@ -34,3 +78,4 @@ This project is based on code written by Karan Grover from the Amazon Transcribe
 ## License
 
 This library is licensed under the Apache 2.0 License. 
+
